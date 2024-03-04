@@ -1,0 +1,88 @@
+.cat-food, .ambulance, .ball, .bowl, .shampoo, .pills, .syringe, .leash, .cat, .credit-card, .evelope, .telephone, .pin, .telephone_black{
+	background: url(sprites.png) no-repeat;
+}
+
+.cat-food{
+	background-position: 0 0;
+	width: 45px;
+	height: 57px;
+}
+
+.ambulance{
+	background-position: -60px 0;
+	width: 65px;
+	height: 65px;
+}
+
+.ball{
+	background-position: -140px 0;
+	width: 58px;
+	height: 58px;
+}
+
+.bowl{
+	background-position: -210px 0;
+	width: 58px;
+	height: 55px;
+}
+
+.shampoo{
+	background-position: -280px 0;
+	width: 30px;
+	height: 58px;
+}
+
+.pills{
+	background-position: 0 -75px ;
+	width: 64px;
+	height: 57px;
+}
+
+.syringe{
+	background-position: -75px -75px ;
+	width: 58px;
+	height: 58px;
+}
+
+.leash{
+	background-position: -150px -75px ;
+	width: 65px;
+	height: 57px;
+}
+
+.cat{
+	background-position: -230px -75px ;
+	width: 54px;
+	height: 57px;
+}
+
+.credit-card{
+	background-position: 0 -150px ;
+	width: 30px;
+	height: 24px;
+}
+
+.evelope{
+	background-position: -45px -150px ;
+	width: 40px;
+	height: 26px;
+}
+
+.telephone{
+	background-position: -100px -150px ;
+	width: 40px;
+	height: 32px;
+}
+
+.pin{
+	background-position: -150px -150px ;
+	width: 26px;
+	height: 36px;
+}
+
+.telephone_black{
+	background-position: -190px -150px ;
+	width: 40px;
+	height: 32px;
+}
+
